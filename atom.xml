@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rose815429.github.io/</id>
+    <title>Rose</title>
+    <updated>2019-05-28T13:05:11.252Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rose815429.github.io/"/>
+    <link rel="self" href="https://rose815429.github.io//atom.xml"/>
+    <subtitle>You  Jump , I  Jump</subtitle>
+    <logo>https://rose815429.github.io//images/avatar.png</logo>
+    <icon>https://rose815429.github.io//favicon.ico</icon>
+    <rights>All rights reserved 2019, Rose</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Rose]]></title>
+        <id>https://rose815429.github.io//post/hello-rose</id>
+        <link href="https://rose815429.github.io//post/hello-rose">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
