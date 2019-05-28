@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rose815429.github.io/</id>
     <title>Rose</title>
-    <updated>2019-05-28T13:05:11.252Z</updated>
+    <updated>2019-05-28T13:26:10.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rose815429.github.io/"/>
     <link rel="self" href="https://rose815429.github.io//atom.xml"/>
@@ -11,18 +11,19 @@
     <icon>https://rose815429.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Rose</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Rose]]></title>
+        <title type="html"><![CDATA[一个故事]]></title>
         <id>https://rose815429.github.io//post/hello-rose</id>
         <link href="https://rose815429.github.io//post/hello-rose">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<!-- more -->
+<p>B5D5757E072A74BD
+128B1010FAC62FE2
+7FF746DB3CDC833A
+B2110B8CAC03AD71
+8DC22B8F5A555E88
+FF16B0CA7997EC62
+4EEDA10F85E6E7EE</p>
 ]]></content>
     </entry>
 </feed>
