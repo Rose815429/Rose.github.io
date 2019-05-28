@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rose815429.github.io/</id>
     <title>Rose</title>
-    <updated>2019-05-28T13:33:16.163Z</updated>
+    <updated>2019-05-28T13:33:47.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rose815429.github.io/"/>
     <link rel="self" href="https://rose815429.github.io//atom.xml"/>
@@ -16,13 +16,13 @@
         <link href="https://rose815429.github.io//post/hello-rose">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>B5D5757E072A74BD
-128B1010FAC62FE2
-7FF746DB3CDC833A
-B2110B8CAC03AD71
-8DC22B8F5A555E88
-FF16B0CA7997EC62
-4EEDA10F85E6E7EE</p>
+        <content type="html"><![CDATA[<p>B5D5757E072A74BD</p>
+<p>128B1010FAC62FE2</p>
+<p>7FF746DB3CDC833A</p>
+<p>B2110B8CAC03AD71</p>
+<p>8DC22B8F5A555E88</p>
+<p>FF16B0CA7997EC62</p>
+<p>4EEDA10F85E6E7EE</p>
 ]]></content>
     </entry>
 </feed>
